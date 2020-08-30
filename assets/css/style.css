@@ -6,7 +6,6 @@ body {
   background-color: #f5f5f5;
   color: #4e4e4e;
 }
-
 h1,
 h2,
 h3,
@@ -644,6 +643,9 @@ a:hover {
   position: relative;
   color: #fff;
 }
+.intro .img{
+    border-radius: 50%;
+}
 
 .intro .intro-content {
   text-align: center;
@@ -742,6 +744,7 @@ a:hover {
 .about-mf .about-img img {
   margin-left: 10px;
 }
+
 
 @media (min-width: 767px) {
   .about-mf .box-pl2 {
